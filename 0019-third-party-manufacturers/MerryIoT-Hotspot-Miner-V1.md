@@ -17,8 +17,13 @@ BROWAN Communications, as a Gemtek Group’s Company, builds on the pioneering f
 
 ## Product Information
 
-The H1 Hotspot Gateway is designed for edge computing applications in IoT, Smart Manufacturing, Automation, Blockchain and etc, to support high performance, high reliability and high throughput for the heavy data processing demand. 
-The H1 Hotspot Gateway is targeting at AIoT applications with quad A55 cores, G52 GPU hardware, based on Linux distribution. IoT solution providers can easily integrate advanced and stable functions for their application-centric development on their own IoT projects.
+The MerryIot Hotspot Miner V1 is designed for edge computing applications in IoT, Smart Manufacturing, Automation, Blockchain and etc, to support high performance, high reliability and high throughput for the heavy data processing demand. 
+The MerryIot Hotspot Miner V1 is targeting at AIoT applications with quad A55 cores, G52 GPU hardware, based on Linux distribution. IoT solution providers can easily integrate advanced and stable functions for their application-centric development on their own IoT projects.
+
+![untitled 391](https://user-images.githubusercontent.com/29647730/126925021-0c57f70a-1bbb-4518-b108-f6eb1d550ddb.jpg)
+
+![untitled 392](https://user-images.githubusercontent.com/29647730/126925041-8a1b23f4-398b-443f-9e6e-1fad044d5a80.jpg)
+
 
 Please find the preliminary HW interfaces:
 
@@ -27,9 +32,9 @@ Please find the preliminary HW interfaces:
 3. Reset Button
 4. Ethernet(100/1000 Mbps)
 5. LoRa 8 channles
-6. DC jack power supply
+6. DC jack in
 7. USB Type-A 2.0
-8. TF card Slot
+8. TF card slot
 9. WiFi 802.11 b/g/n
 10. BLE 5.2
 11. SX1302 with SX1250
